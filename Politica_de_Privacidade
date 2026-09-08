@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Política de Privacidade - MSW Softworks</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+      padding: 35px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      text-align: center;
+      color: #1f2937;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      color: #374151;
+      margin-top: 30px;
+    }
+
+    p {
+      margin: 15px 0;
+    }
+
+    ul {
+      margin: 10px 20px;
+    }
+
+    .important {
+      background-color: #f0f4f8;
+      border-left: 5px solid #374151;
+      padding: 12px 16px;
+      margin: 20px 0;
+    }
+
+    .date {
+      text-align: center;
+      color: #666;
+      margin-bottom: 30px;
+    }
+
+    a {
+      color: #2563eb;
+    }
+
+    footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #ddd;
+      text-align: center;
+      color: #777;
+      font-size: 0.9em;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 10px;
+      }
+
+      .container {
+        padding: 20px;
+      }
+
+      h1 {
+        font-size: 1.5em;
+      }
+
+      h2 {
+        font-size: 1.2em;
+      }
+
+      p, ul {
+        font-size: 0.95em;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+  <h1>POLÍTICA DE PRIVACIDADE</h1>
+
+  <p class="date">
+    Aplicativos desenvolvidos pela MSW Softworks<br>
+    Última atualização: 08/09/2026
+  </p>
+
+  <h2>1. COMPROMISSO COM A PRIVACIDADE</h2>
+
+  <p>
+    A MSW Softworks respeita a privacidade de seus usuários e está
+    comprometida com a proteção dos dados pessoais tratados por meio de
+    seus aplicativos e serviços digitais.
+  </p>
+
+  <p>
+    Esta Política de Privacidade explica, de forma geral, como informações
+    podem ser coletadas, utilizadas, armazenadas e protegidas durante a
+    utilização dos aplicativos desenvolvidos ou disponibilizados pela
+    MSW Softworks.
+  </p>
+
+  <div class="important">
+    <p>
+      <strong>Importante:</strong> cada aplicativo pode possuir funcionalidades
+      diferentes. Portanto, determinados tipos de dados ou funcionalidades
+      descritos nesta política somente serão aplicáveis quando utilizados
+      pelo respectivo aplicativo.
+    </p>
+  </div>
+
+  <h2>2. DADOS QUE PODEM SER COLETADOS</h2>
+
+  <p>
+    Dependendo das funcionalidades disponibilizadas pelo aplicativo,
+    poderão ser tratados diferentes tipos de informações.
+  </p>
+
+  <p>Essas informações podem incluir:</p>
+
+  <ul>
+    <li>
+      <strong>Dados de identificação:</strong>
+      nome, endereço de e-mail e outras informações necessárias para
+      identificação do usuário.
+    </li>
+
+```
+<li>
+  <strong>Dados de conta:</strong>
+  informações relacionadas ao cadastro, autenticação e utilização
+  da conta.
+</li>
+
+<li>
+  <strong>Dados fornecidos pelo usuário:</strong>
+  informações inseridas voluntariamente durante a utilização das
+  funcionalidades do aplicativo.
+</li>
+
+<li>
+  <strong>Dados técnicos:</strong>
+  informações relacionadas ao dispositivo, sistema operacional,
+  versão do aplicativo e informações técnicas necessárias ao
+  funcionamento e segurança do serviço.
+</li>
+
+<li>
+  <strong>Dados de utilização:</strong>
+  informações relacionadas à utilização e interação com as
+  funcionalidades disponibilizadas pelo aplicativo.
+</li>
+```
+
+  </ul>
+
+  <h2>3. LOGIN COM O GOOGLE</h2>
+
+  <p>
+    Alguns aplicativos da MSW Softworks poderão disponibilizar a opção
+    de autenticação utilizando o serviço Google Sign-In.
+  </p>
+
+  <p>
+    Quando o usuário optar por entrar utilizando sua conta Google,
+    o aplicativo poderá receber informações básicas disponibilizadas
+    pelo Google, de acordo com as permissões autorizadas pelo usuário
+    e pelas configurações do serviço.
+  </p>
+
+  <p>Essas informações podem incluir:</p>
+
+  <ul>
+    <li>Nome;</li>
+    <li>Endereço de e-mail;</li>
+    <li>Imagem de perfil, quando disponibilizada;</li>
+    <li>Identificador da conta utilizado para autenticação.</li>
+  </ul>
+
+  <p>
+    Essas informações são utilizadas para criar, identificar, autenticar
+    e manter a conta do usuário dentro do respectivo aplicativo.
+  </p>
+
+  <p>
+    A MSW Softworks não utiliza os dados obtidos por meio dos serviços
+    do Google para finalidades incompatíveis com aquelas informadas ao
+    usuário no momento da utilização do serviço.
+  </p>
+
+  <p>
+    Quando aplicável, o acesso e utilização de informações provenientes
+    das APIs do Google também estarão sujeitos às políticas e termos
+    aplicáveis do Google.
+  </p>
+
+  <h2>4. FINALIDADE DO TRATAMENTO DOS DADOS</h2>
+
+  <p>
+    Os dados poderão ser utilizados para as seguintes finalidades,
+    conforme as funcionalidades disponíveis em cada aplicativo:
+  </p>
+
+  <ul>
+    <li>Criação e gerenciamento da conta do usuário;</li>
+    <li>Autenticação e controle de acesso;</li>
+    <li>Disponibilização das funcionalidades do aplicativo;</li>
+    <li>Personalização da experiência do usuário;</li>
+    <li>Comunicação relacionada ao funcionamento do serviço;</li>
+    <li>Melhoria da qualidade e desempenho dos aplicativos;</li>
+    <li>Prevenção de fraudes e utilização indevida;</li>
+    <li>Segurança dos sistemas e das contas dos usuários;</li>
+    <li>Cumprimento de obrigações legais e regulatórias.</li>
+  </ul>
+
+  <h2>5. DADOS DE LOCALIZAÇÃO</h2>
+
+  <p>
+    Alguns aplicativos poderão solicitar acesso à localização do
+    dispositivo quando essa informação for necessária para determinada
+    funcionalidade.
+  </p>
+
+  <p>
+    A utilização da localização dependerá da autorização concedida pelo
+    usuário e da finalidade apresentada pelo respectivo aplicativo.
+  </p>
+
+  <p>
+    Quando a localização não for necessária para determinada aplicação,
+    o aplicativo não solicitará essa permissão.
+  </p>
+
+  <h2>6. CÂMERA, ARMAZENAMENTO E OUTRAS PERMISSÕES</h2>
+
+  <p>
+    Dependendo das funcionalidades oferecidas, um aplicativo poderá
+    solicitar permissões para acessar recursos do dispositivo, como
+    câmera, armazenamento, notificações ou outros recursos.
+  </p>
+
+  <p>
+    Essas permissões serão utilizadas somente quando necessárias para
+    disponibilizar funcionalidades do respectivo aplicativo e estarão
+    sujeitas às permissões concedidas pelo usuário.
+  </p>
+
+  <h2>7. SERVIÇOS DE TERCEIROS</h2>
+
+  <p>
+    Para disponibilizar determinadas funcionalidades, os aplicativos
+    poderão utilizar serviços tecnológicos fornecidos por terceiros.
+  </p>
+
+  <p>
+    Esses serviços podem incluir, conforme aplicável, serviços de
+    autenticação, armazenamento, análise, infraestrutura, notificações
+    e publicidade.
+  </p>
+
+  <p>
+    Os respectivos provedores poderão tratar informações de acordo com
+    suas próprias políticas de privacidade e termos de serviço.
+  </p>
+
+  <h2>8. FIREBASE E SERVIÇOS DE INFRAESTRUTURA</h2>
+
+  <p>
+    Alguns aplicativos poderão utilizar serviços de infraestrutura e
+    desenvolvimento fornecidos pelo Firebase, incluindo serviços de
+    autenticação, armazenamento de dados, banco de dados, hospedagem,
+    análise e outros recursos necessários ao funcionamento do aplicativo.
+  </p>
+
+  <p>
+    A utilização desses serviços dependerá da arquitetura e das
+    funcionalidades de cada aplicativo.
+  </p>
+
+  <h2>9. PUBLICIDADE</h2>
+
+  <p>
+    Determinados aplicativos poderão apresentar anúncios ou publicidade
+    fornecidos por plataformas de terceiros.
+  </p>
+
+  <p>
+    Quando houver publicidade, poderão ser utilizados identificadores
+    técnicos e informações relacionadas ao dispositivo e à utilização
+    do aplicativo, conforme permitido pela legislação aplicável e pelas
+    configurações de privacidade do usuário.
+  </p>
+
+  <p>
+    A presença de publicidade dependerá do aplicativo e de seu modelo
+    de funcionamento.
+  </p>
+
+  <h2>10. COMPARTILHAMENTO DE DADOS</h2>
+
+  <p>
+    A MSW Softworks não comercializa dados pessoais dos usuários.
+  </p>
+
+  <p>
+    Informações poderão ser compartilhadas ou processadas por provedores
+    de tecnologia quando isso for necessário para o funcionamento do
+    aplicativo, incluindo serviços de autenticação, armazenamento,
+    infraestrutura, segurança, análise ou outras funcionalidades
+    contratadas ou utilizadas pela aplicação.
+  </p>
+
+  <p>
+    Dados também poderão ser disponibilizados quando necessário para
+    cumprimento de obrigação legal, determinação judicial ou exercício
+    regular de direitos.
+  </p>
+
+  <h2>11. ARMAZENAMENTO E SEGURANÇA</h2>
+
+  <p>
+    A MSW Softworks adota medidas técnicas e organizacionais razoáveis
+    para proteger os dados pessoais contra acesso não autorizado,
+    alteração, perda, destruição ou divulgação indevida.
+  </p>
+
+  <p>
+    Apesar das medidas de segurança adotadas, nenhum sistema conectado
+    à internet pode garantir segurança absoluta.
+  </p>
+
+  <h2>12. RETENÇÃO DOS DADOS</h2>
+
+  <p>
+    Os dados pessoais poderão ser mantidos durante o período necessário
+    para cumprir as finalidades para as quais foram coletados, manter
+    o funcionamento dos serviços, cumprir obrigações legais ou exercer
+    direitos legítimos.
+  </p>
+
+  <p>
+    Quando não houver necessidade legítima ou obrigação legal para
+    manutenção das informações, os dados poderão ser excluídos ou
+    anonimizados, conforme aplicável.
+  </p>
+
+  <h2>13. DIREITOS DO TITULAR DOS DADOS</h2>
+
+  <p>
+    Nos termos da legislação aplicável, incluindo a Lei Geral de
+    Proteção de Dados Pessoais (LGPD - Lei nº 13.709/2018), o titular
+    poderá exercer, conforme aplicável, direitos relacionados aos seus
+    dados pessoais.
+  </p>
+
+  <p>Entre esses direitos estão:</p>
+
+  <ul>
+    <li>Confirmação da existência de tratamento;</li>
+    <li>Acesso aos dados pessoais;</li>
+    <li>Correção de dados incompletos ou desatualizados;</li>
+    <li>Solicitação de exclusão de dados, quando aplicável;</li>
+    <li>Revogação do consentimento, quando essa for a base legal aplicável;</li>
+    <li>Outros direitos previstos na legislação vigente.</li>
+  </ul>
+
+  <h2>14. EXCLUSÃO DA CONTA</h2>
+
+  <p>
+    Quando o aplicativo oferecer uma conta de usuário, poderá ser
+    disponibilizado um mecanismo para solicitar sua exclusão.
+  </p>
+
+  <p>
+    A exclusão poderá estar sujeita à manutenção de determinadas
+    informações quando houver obrigação legal, necessidade de prevenção
+    a fraudes, segurança ou exercício regular de direitos.
+  </p>
+
+  <h2>15. CONSENTIMENTO E CONTROLE DO USUÁRIO</h2>
+
+  <p>
+    Quando determinado tratamento depender de consentimento, o usuário
+    poderá escolher se deseja concedê-lo, respeitadas as funcionalidades
+    que dependam necessariamente daquele tratamento.
+  </p>
+
+  <p>
+    O usuário poderá gerenciar determinadas permissões diretamente nas
+    configurações do dispositivo ou dentro do aplicativo, quando essa
+    opção estiver disponível.
+  </p>
+
+  <h2>16. PRIVACIDADE DE CRIANÇAS E ADOLESCENTES</h2>
+
+  <p>
+    Os aplicativos não são desenvolvidos com a finalidade de coletar
+    intencionalmente dados pessoais de crianças em desacordo com a
+    legislação aplicável.
+  </p>
+
+  <p>
+    Caso seja identificado tratamento inadequado de dados de menores,
+    poderão ser adotadas medidas para correção ou exclusão das
+    informações, conforme aplicável.
+  </p>
+
+  <h2>17. ALTERAÇÕES DESTA POLÍTICA</h2>
+
+  <p>
+    Esta Política de Privacidade poderá ser atualizada periodicamente
+    para refletir alterações nos aplicativos, nos serviços utilizados,
+    na legislação ou nas práticas de tratamento de dados.
+  </p>
+
+  <p>
+    A versão mais recente estará disponível por meio dos canais oficiais
+    da MSW Softworks.
+  </p>
+
+  <h2>18. LEGISLAÇÃO APLICÁVEL</h2>
+
+  <p>
+    Esta Política de Privacidade é regida pelas leis da República
+    Federativa do Brasil, incluindo a Lei Geral de Proteção de Dados
+    Pessoais (LGPD - Lei nº 13.709/2018), quando aplicável.
+  </p>
+
+  <h2>19. CONTATO</h2>
+
+  <p>
+    Para dúvidas, solicitações ou questões relacionadas à privacidade
+    e proteção de dados, o usuário poderá entrar em contato pelos canais
+    oficiais da MSW Softworks:
+  </p>
+
+  <ul>
+    <li>
+      <strong>Site:</strong>
+      <a href="https://mswsoftworks.com.br/contato/" target="_blank">
+        https://mswsoftworks.com.br/contato/
+      </a>
+    </li>
+
+```
+<li>
+  <strong>E-mail:</strong>
+  <a href="mailto:atendimento@mswsoftworks.com.br">
+    atendimento@mswsoftworks.com.br
+  </a>
+</li>
+```
+
+  </ul>
+
+  <footer>
+    © 2026 MSW Softworks. Todos os direitos reservados.
+  </footer>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Exclusão de Conta - MSW Softworks</title>
+
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1.0"
+
+>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      color: #1f2937;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      color: #374151;
+      margin-top: 30px;
+    }
+
+    p {
+      margin: 15px 0;
+    }
+
+    ul,
+    ol {
+      margin: 10px 0 20px 25px;
+    }
+
+    .important {
+      background-color: #f0f4f8;
+      border-left: 5px solid #374151;
+      padding: 12px 16px;
+      margin: 25px 0;
+    }
+
+    .contact {
+      background-color: #f8f8f8;
+      padding: 15px;
+      border-radius: 6px;
+      margin-top: 20px;
+    }
+
+    a {
+      color: #2563eb;
+    }
+
+    footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #ddd;
+      text-align: center;
+      color: #777;
+      font-size: 0.9em;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 10px;
+      }
+
+      .container {
+        padding: 20px;
+      }
+
+      h1 {
+        font-size: 1.5em;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+  <h1>Exclusão de Conta</h1>
+
+  <p>
+    Aplicativos desenvolvidos pela <strong>MSW Softworks</strong>
+  </p>
+
+  <p>
+    Última atualização: 08/09/2026
+  </p>
+
+  <h2>1. Solicitação de exclusão</h2>
+
+  <p>
+    Os aplicativos da MSW Softworks que oferecem criação de conta
+    permitem que o usuário solicite a exclusão de sua conta e dos
+    dados pessoais associados, observadas as condições previstas na
+    legislação aplicável.
+  </p>
+
+  <p>
+    A exclusão poderá ser realizada diretamente pelo aplicativo,
+    quando essa funcionalidade estiver disponível, ou mediante
+    solicitação através dos canais oficiais de contato.
+  </p>
+
+  <h2>2. Como solicitar a exclusão pelo aplicativo</h2>
+
+  <p>
+    Quando o aplicativo disponibilizar a opção de exclusão de conta,
+    o usuário poderá realizar a solicitação seguindo o fluxo
+    disponibilizado nas configurações ou no perfil da conta.
+  </p>
+
+  <ol>
+    <li>Acesse sua conta no aplicativo;</li>
+    <li>Acesse a área de Perfil, Conta ou Configurações;</li>
+    <li>Localize a opção relacionada à exclusão da conta;</li>
+    <li>Confirme a solicitação conforme as instruções apresentadas.</li>
+  </ol>
+
+  <h2>3. Solicitação por contato</h2>
+
+  <p>
+    Caso o aplicativo não disponibilize uma opção direta para
+    exclusão da conta, o usuário poderá solicitar a exclusão através
+    dos canais oficiais da MSW Softworks.
+  </p>
+
+  <div class="contact">
+
+```
+<p>
+  <strong>Site:</strong><br>
+  <a
+    href="https://mswsoftworks.com.br/contato/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    https://mswsoftworks.com.br/contato/
+  </a>
+</p>
+
+<p>
+  <strong>E-mail:</strong><br>
+  <a href="mailto:atendimento@mswsoftworks.com.br">
+    atendimento@mswsoftworks.com.br
+  </a>
+</p>
+```
+
+  </div>
+
+  <h2>4. Dados que poderão ser excluídos</h2>
+
+  <p>
+    Após a solicitação e validação da identidade ou titularidade da
+    conta, poderão ser excluídos, conforme aplicável ao respectivo
+    aplicativo:
+  </p>
+
+  <ul>
+    <li>Informações de identificação do usuário;</li>
+    <li>Dados cadastrais;</li>
+    <li>Informações de contato;</li>
+    <li>Dados associados à conta;</li>
+    <li>Conteúdos fornecidos pelo usuário, quando aplicável;</li>
+    <li>Dados relacionados à utilização do aplicativo, quando aplicável.</li>
+  </ul>
+
+  <h2>5. Dados que poderão ser mantidos</h2>
+
+  <p>
+    Determinadas informações poderão ser mantidas mesmo após a
+    solicitação de exclusão quando sua conservação for necessária
+    para cumprimento de obrigação legal ou regulatória, prevenção
+    de fraude, segurança, exercício regular de direitos ou outras
+    hipóteses previstas na legislação aplicável.
+  </p>
+
+  <p>
+    Quando necessário, os dados mantidos serão armazenados somente
+    pelo período necessário para cumprir a finalidade correspondente.
+  </p>
+
+  <h2>6. Prazo para processamento</h2>
+
+  <p>
+    As solicitações de exclusão serão analisadas e processadas em
+    prazo razoável, considerando a natureza da solicitação, os
+    procedimentos de segurança e as obrigações legais aplicáveis.
+  </p>
+
+  <p>
+    Quando houver necessidade de manutenção de determinados dados,
+    o usuário poderá ser informado sobre a respectiva justificativa,
+    quando aplicável.
+  </p>
+
+  <h2>7. Exclusão de dados de serviços de terceiros</h2>
+
+  <p>
+    Alguns aplicativos podem utilizar serviços de terceiros para
+    autenticação, armazenamento ou outras funcionalidades.
+  </p>
+
+  <p>
+    A exclusão dos dados mantidos pela MSW Softworks não implica
+    necessariamente a exclusão de informações que possam ser
+    mantidas diretamente por terceiros de acordo com suas próprias
+    políticas e obrigações legais.
+  </p>
+
+  <p>
+    Quando aplicável, o usuário deverá também observar os mecanismos
+    disponibilizados pelo respectivo provedor de serviço.
+  </p>
+
+  <h2>8. Proteção de dados</h2>
+
+  <p>
+    As solicitações de exclusão e o tratamento dos dados pessoais
+    são realizados observando a legislação aplicável, incluindo a
+    Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº
+    13.709/2018), quando aplicável.
+  </p>
+
+  <h2>9. Contato</h2>
+
+  <p>
+    Para dúvidas relacionadas à exclusão de conta ou ao tratamento
+    de dados pessoais, utilize os canais oficiais:
+  </p>
+
+  <ul>
+    <li>
+      <strong>Site:</strong>
+      <a
+        href="https://mswsoftworks.com.br/contato/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        MSW Softworks - Contato
+      </a>
+    </li>
+
+```
+<li>
+  <strong>E-mail:</strong>
+  <a href="mailto:atendimento@mswsoftworks.com.br">
+    atendimento@mswsoftworks.com.br
+  </a>
+</li>
+```
+
+  </ul>
+
+  <footer>
+    © 2026 MSW Softworks. Todos os direitos reservados.
+  </footer>
+
+</div>
+
+</body>
+</html>

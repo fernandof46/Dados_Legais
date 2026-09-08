@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>MSW Softworks - Área Legal</title>
+
+<meta
+ name="description"
+ content="Documentação legal dos aplicativos e serviços desenvolvidos pela MSW Softworks."
+/>
+
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      line-height: 1.6;
+      color: #222;
+      background: #f7f7f7;
+    }
+
+    main {
+      background: #fff;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      margin-top: 0;
+      color: #111;
+    }
+
+    h2 {
+      margin-top: 30px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin: 12px 0;
+    }
+
+    a {
+      color: #1a73e8;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .description {
+      color: #555;
+    }
+
+    footer {
+      margin-top: 35px;
+      padding-top: 20px;
+      border-top: 1px solid #ddd;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+
+</head>
+
+<body>
+
+<main>
+
+  <h1>MSW Softworks — Área Legal</h1>
+
+  <p class="description">
+    Esta página reúne a documentação legal aplicável aos aplicativos,
+    produtos e serviços digitais desenvolvidos e disponibilizados pela
+    MSW Softworks.
+  </p>
+
+  <p>
+    Os documentos abaixo apresentam informações sobre utilização dos
+    serviços, tratamento de dados pessoais, privacidade e procedimentos
+    relacionados à exclusão de contas.
+  </p>
+
+  <h2>Documentação</h2>
+
+  <ul>
+    <li>
+      <a href="termos.html">
+        Termos de Uso
+      </a>
+    </li>
+
+```
+<li>
+  <a href="privacidade.html">
+    Política de Privacidade
+  </a>
+</li>
+
+<li>
+  <a href="exclusao.html">
+    Exclusão de Conta
+  </a>
+</li>
+```
+
+  </ul>
+
+  <h2>Aplicabilidade</h2>
+
+  <p>
+    Esta documentação pode ser utilizada pelos diferentes aplicativos
+    desenvolvidos pela MSW Softworks. Dependendo das funcionalidades
+    disponibilizadas em cada aplicativo, poderão existir informações,
+    permissões, recursos ou condições específicas adicionais.
+  </p>
+
+  <p>
+    Quando aplicável, o aplicativo apresentará ao usuário informações
+    complementares relacionadas às funcionalidades utilizadas, permissões
+    solicitadas e tratamento de dados.
+  </p>
+
+  <h2>Contato</h2>
+
+  <p>
+    Para dúvidas, solicitações relacionadas à privacidade, dados pessoais
+    ou exclusão de conta, entre em contato:
+  </p>
+
+  <p>
+    <strong>E-mail:</strong>
+    <a href="mailto:atendimento@mswsoftworks.com.br">
+      atendimento@mswsoftworks.com.br
+    </a>
+  </p>
+
+  <p>
+    <strong>Site:</strong>
+    <a href="https://mswsoftworks.com.br/contato/" target="_blank">
+      mswsoftworks.com.br
+    </a>
+  </p>
+
+  <footer>
+    © 2026 MSW Softworks. Todos os direitos reservados.
+  </footer>
+
+</main>
+
+</body>
+</html>

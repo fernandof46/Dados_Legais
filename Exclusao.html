@@ -1,93 +1,171 @@
 <!DOCTYPE html>
 
 <html lang="pt-BR">
-
 <head>
   <meta charset="UTF-8">
-  <title>Exclusão de Conta - MSW Softworks</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta
-name="viewport"
-content="width=device-width, initial-scale=1.0"
+  <title>Coxinha.AI — Exclusão de conta e dados</title>
 
->
+  <meta name="description" content="Solicitação de exclusão de conta, dados e elementos de segurança associados ao aplicativo Coxinha.Ai.">
 
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
       margin: 0;
-      padding: 20px;
-      background-color: #f4f4f4;
-      color: #333;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                   Helvetica, Arial, sans-serif;
+      background: #f5f6f8;
+      color: #222;
+      line-height: 1.6;
     }
 
     .container {
-      max-width: 800px;
-      margin: auto;
+      width: 100%;
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .card {
       background: #fff;
-      padding: 30px;
-      border-radius: 8px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+      border-radius: 16px;
+      padding: 40px;
+      box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 35px;
+    }
+
+    .logo {
+      width: 72px;
+      height: 72px;
+      margin: 0 auto 18px;
+      border-radius: 18px;
+      background: #f28c28;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-size: 34px;
+      font-weight: 700;
     }
 
     h1 {
-      color: #1f2937;
-      margin-bottom: 10px;
+      margin: 0;
+      font-size: 30px;
+      color: #171717;
+    }
+
+    .subtitle {
+      margin-top: 8px;
+      color: #666;
+      font-size: 16px;
     }
 
     h2 {
-      color: #374151;
-      margin-top: 30px;
+      margin-top: 32px;
+      margin-bottom: 12px;
+      font-size: 20px;
+      color: #222;
     }
 
     p {
-      margin: 15px 0;
+      margin: 10px 0;
     }
 
-    ul,
-    ol {
-      margin: 10px 0 20px 25px;
+    ul {
+      padding-left: 22px;
     }
 
-    .important {
-      background-color: #f0f4f8;
-      border-left: 5px solid #374151;
-      padding: 12px 16px;
-      margin: 25px 0;
+    li {
+      margin-bottom: 8px;
     }
 
-    .contact {
-      background-color: #f8f8f8;
-      padding: 15px;
+    .highlight {
+      background: #fff7ed;
+      border-left: 4px solid #f28c28;
+      padding: 16px 18px;
+      margin: 24px 0;
       border-radius: 6px;
-      margin-top: 20px;
     }
 
-    a {
-      color: #2563eb;
+    .steps {
+      counter-reset: step;
+      list-style: none;
+      padding: 0;
+    }
+
+    .steps li {
+      counter-increment: step;
+      position: relative;
+      padding: 12px 0 12px 48px;
+      margin-bottom: 8px;
+    }
+
+    .steps li::before {
+      content: counter(step);
+      position: absolute;
+      left: 0;
+      top: 8px;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: #f28c28;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+    }
+
+    .email-box {
+      margin-top: 20px;
+      padding: 20px;
+      background: #f7f7f7;
+      border-radius: 10px;
+      text-align: center;
+      font-size: 17px;
+    }
+
+    .email-box a {
+      color: #d86f0d;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .email-box a:hover {
+      text-decoration: underline;
     }
 
     footer {
-      margin-top: 40px;
-      padding-top: 20px;
-      border-top: 1px solid #ddd;
       text-align: center;
+      margin-top: 30px;
       color: #777;
-      font-size: 0.9em;
+      font-size: 14px;
+    }
+
+    footer strong {
+      color: #555;
     }
 
     @media (max-width: 600px) {
-      body {
-        padding: 10px;
+      .container {
+        padding: 20px 12px;
       }
 
-      .container {
-        padding: 20px;
+      .card {
+        padding: 26px 20px;
+        border-radius: 12px;
       }
 
       h1 {
-        font-size: 1.5em;
+        font-size: 25px;
       }
     }
   </style>
@@ -96,189 +174,129 @@ content="width=device-width, initial-scale=1.0"
 
 <body>
 
-<div class="container">
-
-  <h1>Exclusão de Conta</h1>
-
-  <p>
-    Aplicativos desenvolvidos pela <strong>MSW Softworks</strong>
-  </p>
-
-  <p>
-    Última atualização: 08/09/2026
-  </p>
-
-  <h2>1. Solicitação de exclusão</h2>
-
-  <p>
-    Os aplicativos da MSW Softworks que oferecem criação de conta
-    permitem que o usuário solicite a exclusão de sua conta e dos
-    dados pessoais associados, observadas as condições previstas na
-    legislação aplicável.
-  </p>
-
-  <p>
-    A exclusão poderá ser realizada diretamente pelo aplicativo,
-    quando essa funcionalidade estiver disponível, ou mediante
-    solicitação através dos canais oficiais de contato.
-  </p>
-
-  <h2>2. Como solicitar a exclusão pelo aplicativo</h2>
-
-  <p>
-    Quando o aplicativo disponibilizar a opção de exclusão de conta,
-    o usuário poderá realizar a solicitação seguindo o fluxo
-    disponibilizado nas configurações ou no perfil da conta.
-  </p>
-
-  <ol>
-    <li>Acesse sua conta no aplicativo;</li>
-    <li>Acesse a área de Perfil, Conta ou Configurações;</li>
-    <li>Localize a opção relacionada à exclusão da conta;</li>
-    <li>Confirme a solicitação conforme as instruções apresentadas.</li>
-  </ol>
-
-  <h2>3. Solicitação por contato</h2>
-
-  <p>
-    Caso o aplicativo não disponibilize uma opção direta para
-    exclusão da conta, o usuário poderá solicitar a exclusão através
-    dos canais oficiais da MSW Softworks.
-  </p>
-
-  <div class="contact">
+  <main class="container">
 
 ```
-<p>
-  <strong>Site:</strong><br>
-  <a
-    href="https://mswsoftworks.com.br/contato/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    https://mswsoftworks.com.br/contato/
-  </a>
-</p>
+<section class="card">
 
-<p>
-  <strong>E-mail:</strong><br>
-  <a href="mailto:atendimento@mswsoftworks.com.br">
-    atendimento@mswsoftworks.com.br
-  </a>
-</p>
-```
+  <header>
+    <div class="logo" aria-hidden="true">C</div>
 
-  </div>
+    <h1>Coxinha.Ai</h1>
 
-  <h2>4. Dados que poderão ser excluídos</h2>
+    <div class="subtitle">
+      Exclusão de conta e dados
+    </div>
+  </header>
 
   <p>
-    Após a solicitação e validação da identidade ou titularidade da
-    conta, poderão ser excluídos, conforme aplicável ao respectivo
-    aplicativo:
+    Esta página apresenta o procedimento para solicitar a exclusão
+    da conta e dos dados associados ao aplicativo
+    <strong>Coxinha.Ai</strong>.
   </p>
 
-  <ul>
-    <li>Informações de identificação do usuário;</li>
-    <li>Dados cadastrais;</li>
-    <li>Informações de contato;</li>
-    <li>Dados associados à conta;</li>
-    <li>Conteúdos fornecidos pelo usuário, quando aplicável;</li>
-    <li>Dados relacionados à utilização do aplicativo, quando aplicável.</li>
-  </ul>
-
-  <h2>5. Dados que poderão ser mantidos</h2>
+  <h2>Como solicitar a exclusão</h2>
 
   <p>
-    Determinadas informações poderão ser mantidas mesmo após a
-    solicitação de exclusão quando sua conservação for necessária
-    para cumprimento de obrigação legal ou regulatória, prevenção
-    de fraude, segurança, exercício regular de direitos ou outras
-    hipóteses previstas na legislação aplicável.
+    A exclusão da conta é realizada mediante solicitação do próprio
+    usuário. Para solicitar a exclusão, envie um e-mail para o
+    endereço indicado abaixo, utilizando, preferencialmente, o
+    mesmo endereço de e-mail associado à sua conta no aplicativo.
   </p>
 
-  <p>
-    Quando necessário, os dados mantidos serão armazenados somente
-    pelo período necessário para cumprir a finalidade correspondente.
-  </p>
-
-  <h2>6. Prazo para processamento</h2>
-
-  <p>
-    As solicitações de exclusão serão analisadas e processadas em
-    prazo razoável, considerando a natureza da solicitação, os
-    procedimentos de segurança e as obrigações legais aplicáveis.
-  </p>
-
-  <p>
-    Quando houver necessidade de manutenção de determinados dados,
-    o usuário poderá ser informado sobre a respectiva justificativa,
-    quando aplicável.
-  </p>
-
-  <h2>7. Exclusão de dados de serviços de terceiros</h2>
-
-  <p>
-    Alguns aplicativos podem utilizar serviços de terceiros para
-    autenticação, armazenamento ou outras funcionalidades.
-  </p>
-
-  <p>
-    A exclusão dos dados mantidos pela MSW Softworks não implica
-    necessariamente a exclusão de informações que possam ser
-    mantidas diretamente por terceiros de acordo com suas próprias
-    políticas e obrigações legais.
-  </p>
-
-  <p>
-    Quando aplicável, o usuário deverá também observar os mecanismos
-    disponibilizados pelo respectivo provedor de serviço.
-  </p>
-
-  <h2>8. Proteção de dados</h2>
-
-  <p>
-    As solicitações de exclusão e o tratamento dos dados pessoais
-    são realizados observando a legislação aplicável, incluindo a
-    Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº
-    13.709/2018), quando aplicável.
-  </p>
-
-  <h2>9. Contato</h2>
-
-  <p>
-    Para dúvidas relacionadas à exclusão de conta ou ao tratamento
-    de dados pessoais, utilize os canais oficiais:
-  </p>
-
-  <ul>
+  <ol class="steps">
     <li>
-      <strong>Site:</strong>
-      <a
-        href="https://mswsoftworks.com.br/contato/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        MSW Softworks - Contato
-      </a>
+      Envie uma solicitação de exclusão para o endereço de suporte
+      informado nesta página.
     </li>
 
+    <li>
+      Informe o endereço de e-mail utilizado para acessar sua conta
+      no <strong>Coxinha.Ai</strong>.
+    </li>
+
+    <li>
+      Após a validação da solicitação, a conta será processada para
+      exclusão.
+    </li>
+  </ol>
+
+  <div class="highlight">
+    <strong>Importante:</strong>
+    a exclusão da conta é permanente. Após a conclusão do processo,
+    não será possível recuperar a conta ou os dados que tenham sido
+    definitivamente excluídos.
+  </div>
+
+  <h2>O que será excluído?</h2>
+
+  <p>
+    A solicitação de exclusão abrange a conta do usuário e os dados
+    associados ao uso do aplicativo, incluindo as informações
+    armazenadas e vinculadas à respectiva conta, quando aplicável.
+  </p>
+
+  <p>
+    Também serão eliminados ou invalidados os elementos de
+    segurança e criptografia associados à conta que sejam mantidos
+    pelo sistema e que possam ser removidos ou invalidados como
+    parte do processo de exclusão.
+  </p>
+
+  <p>
+    Isso pode incluir, conforme a arquitetura e os recursos
+    utilizados pela conta, chaves, credenciais, tokens ou outros
+    elementos criptográficos e de autenticação associados ao usuário.
+  </p>
+
+  <h2>Dados que poderão ser mantidos</h2>
+
+  <p>
+    Algumas informações poderão ser mantidas pelo período exigido
+    por legislação, regulamentação ou obrigação legal aplicável.
+  </p>
+
+  <p>
+    Quando houver necessidade de retenção, esses dados serão
+    mantidos somente pelo período e para as finalidades exigidas,
+    observadas as obrigações legais aplicáveis.
+  </p>
+
+  <h2>Solicitação de exclusão</h2>
+
+  <div class="email-box">
+    Para solicitar a exclusão da sua conta e dos dados associados,
+    envie um e-mail para:
+    <br><br>
+
+    <a href="mailto:SEU-EMAIL@DOMINIO.COM">
+      atendimento@mswsoftworks.com.br
+    </a>
+  </div>
+
+  <h2>Prazo para atendimento</h2>
+
+  <p>
+    As solicitações serão analisadas e processadas dentro de prazo
+    razoável, após a confirmação da identidade ou dos dados
+    necessários para localizar a conta.
+  </p>
+
+  <p>
+    Caso sejam necessárias informações adicionais para validar a
+    solicitação, o usuário poderá ser contatado pelo endereço de
+    e-mail utilizado no pedido.
+  </p>
+
+</section>
+
+<footer>
+  Coxinha.Ai é um aplicativo desenvolvido por
+  <strong>MSW Softworks</strong>.
+</footer>
 ```
-<li>
-  <strong>E-mail:</strong>
-  <a href="mailto:atendimento@mswsoftworks.com.br">
-    atendimento@mswsoftworks.com.br
-  </a>
-</li>
-```
 
-  </ul>
-
-  <footer>
-    © 2026 MSW Softworks. Todos os direitos reservados.
-  </footer>
-
-</div>
+  </main>
 
 </body>
 </html>
